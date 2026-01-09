@@ -59,8 +59,8 @@ class School {
             Console.WriteLine("while loop"+j);
             j--;
            }
-  
 
+        Console.WriteLine("sample");
 
 
     }
